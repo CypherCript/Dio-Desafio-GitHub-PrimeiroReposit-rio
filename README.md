@@ -1,2 +1,2 @@
-# Dio-Desafio-GitHub-PrimeiroReposit-rio
+# Dio-Desafio-GitHub-Primeiro-Repositório
 Primeiro Repositório criado para o Desafio de Projeto do Bootcamp TQI Full Stack Developer  sobre GIT/GitHub
