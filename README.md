@@ -1,8 +1,6 @@
 # Dio-Desafio-GitHub-Primeiro-Repositório
 Primeiro Repositório criado para o Desafio de Projeto do Bootcamp TQI Full Stack Developer  sobre GIT/GitHub.
 
-Anotações dos Cursos e Video-Aulas
-
 Bootcamp TQI Fullstack Developer - README.txt
 
 <!-- Após o fim do Bootcamp, rescreva toda a descrição em formato Html e
